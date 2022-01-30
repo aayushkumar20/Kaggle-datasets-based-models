@@ -6,7 +6,7 @@
 
 ### - [Link for dataset](https://www.kaggle.com/cdawn1/messy-vs-clean-room)
 
-### - Detailed explanations and code please go to the [.ipynb](https://github.com/aayushkumar20/GDSC-ML-Team---Interview-Task/blob/main/aayush-kumar-for-gdsc-club-vit-bhopal.ipynb)
+### - Detailed explanations and code please go to the [.ipynb](https://github.com/aayushkumar20/Kaggle-datasets-based-models/blob/main/Clean%20or%20Messy%20room/Clean%20or%20Messy%20room%20identifier.ipynb)
 
 ### - For outputs and step-by-step explanation please visit [Kaggle Notebook](https://www.kaggle.com/aayushkumar20bcy/aayush-kumar-for-gdsc-club-vit-bhopal)
 
