@@ -1,1 +1,5 @@
-### Datasheet [Link](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).
+# For datasets and details about the specific test files and training materials.
+
+## Please visit the link given in the documentation of their respective folder.
+
+### Hope you'll like it.
