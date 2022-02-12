@@ -1,4 +1,4 @@
-# Please refer to the [.ipynb](https://github.com/aayushkumar20/Kaggle-datasets-based-models/blob/main/Malicious%20URL%20identifier/malicious_URL_identifier_.ipynb) for details usage and steps.
+# Please refer to the [.ipynb](https://github.com/aayushkumar20/Kaggle-datasets-based-models/blob/main/Malicious%20URL%20identifier/malicious-url-detection.ipynb) for details usage and steps.
 
 ##  ⚠️ please use it in kaggle notebook. ⚠️
 
